@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Anjali Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt = "Coding" width = "400" src = "https://drive.google.com/drive/my-drive?q=type:image%20parent:0AOhD0CyiiLnBUk9PVA">
+<img align="right" alt = "Coding" width = "400" src = "[https://drive.google.com/drive/my-drive?q=type:image%20parent:0AOhD0CyiiLnBUk9PVA](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)">
 
 - 📫 How to reach me **patelanjupatel453@gmail.com**
 
